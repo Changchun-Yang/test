@@ -5,7 +5,7 @@ setuptools.setup(
     version='0.2',
     license='MIT',
     description='General Python Utility Library',
-    url='https://github.com/adalca/pystrum',
+    url='https://github.com/Changchun-Yang/test',
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
     classifiers=[
